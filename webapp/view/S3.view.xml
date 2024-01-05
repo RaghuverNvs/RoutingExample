@@ -1,0 +1,17 @@
+<mvc:View controllerName="RoutingExample.controller.S3" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="S3">
+				<content></content>
+				<footer>
+					<Bar>
+						<contentRight>
+							<Button text="Next" press="handleNext"></Button>
+						</contentRight>
+					</Bar>
+				</footer>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
